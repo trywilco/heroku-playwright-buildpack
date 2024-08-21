@@ -35,7 +35,7 @@ install_system_deps() {
 libnspr4
 libnss3
 libxss1
-libasound2
+libasound2t64
 fonts-noto-color-emoji
 libgbm1
 libatk-bridge2.0-0
@@ -70,7 +70,7 @@ libatk1.0-0
 libxcomposite1
 libxdamage1
 libxfixes3
-libgtk-3-0
+libgtk-3-0t64
 EOF
 	fi
 
